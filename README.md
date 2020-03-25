@@ -1,3 +1,5 @@
+# 快康康这个 https://www.ithome.com/0/479/456.htm
+
 # Buggy In the latest Safari. 2019/10/08
 
 # csv-toicloudkeychain
